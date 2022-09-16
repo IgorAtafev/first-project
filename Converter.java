@@ -1,5 +1,5 @@
 public class Converter {
-	public static boid main(String[] args) {
+	public static void main(String[] args) {
 		
 	}
 }
